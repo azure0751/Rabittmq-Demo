@@ -1,2 +1,5 @@
 otp_win64_28.3_2.exe
 rabbitmq-server-4.2.2.exe
+*.cache
+/dotnet/Send/obj
+/dotnet/Send/bin
